@@ -2,6 +2,12 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/demo/io/ObjectStream/Objfile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/demo/io/java输入流和输出流/FileDemo/FileDemo/src/com/edu/newFileCopy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/demo/io/java输入流和输出流/buffer/FileDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/demo/io/写入读取/FileDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/demo/io/复制文件夹以及文件/MyFIle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/demo/io/复制文件夹以及文件/newFileCopy.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/demo/oop/exciseEdu/admin/Admin.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/demo/oop/exciseEdu/array/ArrayDemo.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/demo/oop/exciseEdu/averagescore/Avg.java" charset="UTF-8" />
